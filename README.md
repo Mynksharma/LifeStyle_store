@@ -1,5 +1,6 @@
 # LifeStyle_store
-A responsive e-commerce website built by using HTML,CSS,Bootstrap,JavaScript,PHP and MySQL Database.
+A responsive and progressive e-commerce website built by using HTML,CSS,Bootstrap,JavaScript,PHP and MySQL Database.
+It provides offine support and get a place in user's mobile home screen.
 ## Screenshots
 *Some Glimpses of the website:*
 <br/><br/>
